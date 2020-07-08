@@ -27,8 +27,6 @@ pwndb -user foo -user bar -domain baz.com
     go install pwndb
     pwndb
     ```
-5. You should be able to
-
 ### Quick Setup
 Download and run the binary for your platform below. (or from [releases](https://github.com/coj337/pwndb/releases))  
 [Windows](https://github.com/coj337/pwndb/releases/download/v1.1/pwndb-windows.exe)  
