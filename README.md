@@ -1,7 +1,6 @@
 # pwndb
 pwndb is a tool that looks for leaked passwords from a dark web breach database given a user or domain.
 
-
 ### Usage
 Any number of users and domains can be specified.
 ```
@@ -31,7 +30,7 @@ pwndb -user foo -user bar -domain baz.com
 5. You should be able to
 
 ### Quick Setup
-Download and run the binary for your platform below.  
-[Windows]()  
-[Linux]()  
-[OSX]()
+Download and run the binary for your platform below. (or from [releases](https://github.com/coj337/pwndb/releases))  
+[Windows](https://github.com/coj337/pwndb/releases/download/v1.1/pwndb-windows.exe)  
+[Linux](https://github.com/coj337/pwndb/releases/download/v1.1/pwndb-linux)  
+[OSX](https://github.com/coj337/pwndb/releases/download/v1.1/pwndb-osx)
