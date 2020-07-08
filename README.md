@@ -1,6 +1,10 @@
 # pwndb
 pwndb is a tool that looks for leaked passwords from a dark web breach database given a user or domain.
 
+
+### Credit
+Tool has been extended from the one made by [PostRequest](https://github.com/postrequest) [here](https://github.com/postrequest/tools/tree/master/pwndb).
+
 ### Usage
 Any number of users and domains can be specified.
 ```
