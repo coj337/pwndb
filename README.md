@@ -32,3 +32,6 @@ Download and run the binary for your platform below. (or from [releases](https:/
 [Windows](https://github.com/coj337/pwndb/releases/download/v1.1/pwndb-windows.exe)  
 [Linux](https://github.com/coj337/pwndb/releases/download/v1.1/pwndb-linux)  
 [OSX](https://github.com/coj337/pwndb/releases/download/v1.1/pwndb-osx)
+
+### Demo
+![demo image](https://github.com/coj337/pwndb/blob/master/demo.png)
